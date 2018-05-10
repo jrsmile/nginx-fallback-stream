@@ -15,4 +15,4 @@ to
 this:
 exec_publish /bin/bash /etc/nginx/delay.sh;
 
-this would delay the source switch to 10 seconds after the stream has started.
+this would delay the source switch to 30 seconds after the stream has started.
